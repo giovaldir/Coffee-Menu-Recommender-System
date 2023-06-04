@@ -34,11 +34,11 @@ The Coffee Menu Recommender System achieved outstanding performance with RMSE an
 
 The following dependencies are required to run the project:
 
-- Python (version X.X.X)
-- PySpark (version X.X.X)
-- Surprise (version X.X.X)
-- Pandas (version X.X.X)
-- Matplotlib (version X.X.X)
-- Seaborn (version X.X.X)
-- NumPy (version X.X.X)
-- scikit-learn (version X.X.X)
+- Python
+- PySpark
+- Surprise
+- Pandas 
+- Matplotlib
+- Seaborn 
+- NumPy 
+- scikit-learn
