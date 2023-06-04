@@ -22,7 +22,7 @@ The dataset used in this project is of lower quality, requiring extensive data c
 
 2. *Algorithm Selection*: Implement collaborative filtering algorithms, including ALS and SVD, to generate coffee recommendations. These algorithms leverage the past interactions and preferences of users to provide personalized suggestions.
 
-3. *Cold Start Problem*: Address the cold start problem by incorporating content-based filtering and hybrid approaches. These techniques allow the recommender system to provide recommendations for new users or items with limited historical data.
+3. *Cold Start Problem*: Address the cold start problem by incorporating popularity-ased approaches. These techniques allow the recommender system to provide recommendations for new users or items with limited historical data.
 
 4. *Evaluation Metrics*: Use evaluation metrics such as Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE) to measure the accuracy of the recommender system. These metrics provide insights into the performance and effectiveness of the system.
 
